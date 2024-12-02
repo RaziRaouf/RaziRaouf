@@ -1,5 +1,5 @@
 
-![Mon GIF](https://tenor.com/fr/view/date-everywhere-data-digital-marketing-gif-24166770)
+
 <h1 align="center">Hi 👋, I'm Razi Mohamed Raouf</h1>
 <h3 align="center">Data science Student</h3>
 
